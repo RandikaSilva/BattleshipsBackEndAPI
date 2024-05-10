@@ -25,8 +25,6 @@ BattleShips is a simple implementation of the classic Battleship game as a Web A
 
 - **.NET 7 Web API**: A framework for building HTTP-based services.
 - **NUnit**: A unit testing framework for the .NET platform.
-- **Microsoft.VisualStudio.TestTools.UnitTesting**: Another unit testing framework provided by Microsoft.
-- **Git and GitHub**: Version control and collaborative development platform.
 
 ## How to Run Locally
 To run the project locally, make sure you have .NET 7 installed. Then, follow these steps:
