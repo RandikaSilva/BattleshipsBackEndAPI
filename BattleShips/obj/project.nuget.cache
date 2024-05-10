@@ -1,23 +1,16 @@
 {
   "version": 2,
-  "dgSpecHash": "pLG/xWFwOHGb6kTf9on1deFlevUm5XxufgVkwj/wxNCYms3Lov91TGRq0Ln+0q3YTRZhDuEVAueSUmC/N5UxIw==",
+  "dgSpecHash": "8YHSr40tzaNo5KlHxG5KeIwkUi/3b6Co5iLPS6bisOptITABfYGW4wccOFzY/qwMXwaBE2J57r9F/DwJHhDTiA==",
   "success": true,
   "projectFilePath": "/Users/lasitha/Documents/Projects/BattleshipsBackEndAPI/BattleShips/BattleShips.csproj",
   "expectedPackageFiles": [
     "/Users/lasitha/.nuget/packages/microsoft.aspnetcore.openapi/7.0.18/microsoft.aspnetcore.openapi.7.0.18.nupkg.sha512",
-    "/Users/lasitha/.nuget/packages/microsoft.codecoverage/17.9.0/microsoft.codecoverage.17.9.0.nupkg.sha512",
     "/Users/lasitha/.nuget/packages/microsoft.extensions.apidescription.server/6.0.5/microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
-    "/Users/lasitha/.nuget/packages/microsoft.net.test.sdk/17.9.0/microsoft.net.test.sdk.17.9.0.nupkg.sha512",
     "/Users/lasitha/.nuget/packages/microsoft.openapi/1.4.3/microsoft.openapi.1.4.3.nupkg.sha512",
-    "/Users/lasitha/.nuget/packages/microsoft.testplatform.objectmodel/17.9.0/microsoft.testplatform.objectmodel.17.9.0.nupkg.sha512",
-    "/Users/lasitha/.nuget/packages/microsoft.testplatform.testhost/17.9.0/microsoft.testplatform.testhost.17.9.0.nupkg.sha512",
-    "/Users/lasitha/.nuget/packages/mstest.testframework/3.3.1/mstest.testframework.3.3.1.nupkg.sha512",
-    "/Users/lasitha/.nuget/packages/newtonsoft.json/13.0.1/newtonsoft.json.13.0.1.nupkg.sha512",
     "/Users/lasitha/.nuget/packages/swashbuckle.aspnetcore/6.5.0/swashbuckle.aspnetcore.6.5.0.nupkg.sha512",
     "/Users/lasitha/.nuget/packages/swashbuckle.aspnetcore.swagger/6.5.0/swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",
     "/Users/lasitha/.nuget/packages/swashbuckle.aspnetcore.swaggergen/6.5.0/swashbuckle.aspnetcore.swaggergen.6.5.0.nupkg.sha512",
-    "/Users/lasitha/.nuget/packages/swashbuckle.aspnetcore.swaggerui/6.5.0/swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512",
-    "/Users/lasitha/.nuget/packages/system.reflection.metadata/1.6.0/system.reflection.metadata.1.6.0.nupkg.sha512"
+    "/Users/lasitha/.nuget/packages/swashbuckle.aspnetcore.swaggerui/6.5.0/swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512"
   ],
   "logs": []
 }
